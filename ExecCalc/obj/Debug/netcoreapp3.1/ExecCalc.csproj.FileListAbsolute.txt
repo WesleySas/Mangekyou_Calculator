@@ -1,0 +1,16 @@
+C:\Users\wesle\Documents\1-ProjetosProg\Projetos C#\ExecCalc\ExecCalc\bin\Debug\netcoreapp3.1\ExecCalc.exe
+C:\Users\wesle\Documents\1-ProjetosProg\Projetos C#\ExecCalc\ExecCalc\bin\Debug\netcoreapp3.1\ExecCalc.deps.json
+C:\Users\wesle\Documents\1-ProjetosProg\Projetos C#\ExecCalc\ExecCalc\bin\Debug\netcoreapp3.1\ExecCalc.runtimeconfig.json
+C:\Users\wesle\Documents\1-ProjetosProg\Projetos C#\ExecCalc\ExecCalc\bin\Debug\netcoreapp3.1\ExecCalc.runtimeconfig.dev.json
+C:\Users\wesle\Documents\1-ProjetosProg\Projetos C#\ExecCalc\ExecCalc\bin\Debug\netcoreapp3.1\ExecCalc.dll
+C:\Users\wesle\Documents\1-ProjetosProg\Projetos C#\ExecCalc\ExecCalc\bin\Debug\netcoreapp3.1\ExecCalc.pdb
+C:\Users\wesle\Documents\1-ProjetosProg\Projetos C#\ExecCalc\ExecCalc\obj\Debug\netcoreapp3.1\ExecCalc.csprojAssemblyReference.cache
+C:\Users\wesle\Documents\1-ProjetosProg\Projetos C#\ExecCalc\ExecCalc\obj\Debug\netcoreapp3.1\ExecCalc.frmCalculadora.resources
+C:\Users\wesle\Documents\1-ProjetosProg\Projetos C#\ExecCalc\ExecCalc\obj\Debug\netcoreapp3.1\ExecCalc.Properties.Resources.resources
+C:\Users\wesle\Documents\1-ProjetosProg\Projetos C#\ExecCalc\ExecCalc\obj\Debug\netcoreapp3.1\ExecCalc.csproj.GenerateResource.cache
+C:\Users\wesle\Documents\1-ProjetosProg\Projetos C#\ExecCalc\ExecCalc\obj\Debug\netcoreapp3.1\ExecCalc.AssemblyInfoInputs.cache
+C:\Users\wesle\Documents\1-ProjetosProg\Projetos C#\ExecCalc\ExecCalc\obj\Debug\netcoreapp3.1\ExecCalc.AssemblyInfo.cs
+C:\Users\wesle\Documents\1-ProjetosProg\Projetos C#\ExecCalc\ExecCalc\obj\Debug\netcoreapp3.1\ExecCalc.csproj.CoreCompileInputs.cache
+C:\Users\wesle\Documents\1-ProjetosProg\Projetos C#\ExecCalc\ExecCalc\obj\Debug\netcoreapp3.1\ExecCalc.dll
+C:\Users\wesle\Documents\1-ProjetosProg\Projetos C#\ExecCalc\ExecCalc\obj\Debug\netcoreapp3.1\ExecCalc.pdb
+C:\Users\wesle\Documents\1-ProjetosProg\Projetos C#\ExecCalc\ExecCalc\obj\Debug\netcoreapp3.1\ExecCalc.genruntimeconfig.cache
